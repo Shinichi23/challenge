@@ -1,0 +1,20 @@
+Colors : 
+
+- Pink: hsl(322, 100%, 66%)
+- Very Pale Cyan: hsl(193, 100%, 96%)
+- Very Dark Cyan: hsl(192, 100%, 9%) Ok
+- Grayish Blue: hsl(208, 11%, 55%)
+
+Body :
+
+- Font size: 18px X
+- Family: Open Sans X
+- Weights: 400, 700
+
+Headings :
+
+- Family: Poppins 
+- Weights: 600
+
+Icons :
+Ok

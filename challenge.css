@@ -1,0 +1,19 @@
+
+
+body{
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Open Sans';
+    color: hsl(192, 100%, 9%);
+}
+
+header{
+    background-image: url(./design/images/bg-hero-desktop.svg);
+}
+
+
+footer {
+    background-color: hsl(192, 100%, 9%);
+    color: white;
+}
+
